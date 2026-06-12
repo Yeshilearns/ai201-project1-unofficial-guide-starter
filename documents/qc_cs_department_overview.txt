@@ -1,9 +1,41 @@
 Queens College Computer Science Department Overview
 
-Computer Science is the field for everything computational – from the theoretical foundations for algorithmic problem solving to the engineering of computational devices to the application of computer information technology in other fields.
+Source:
+https://www.cs.qc.cuny.edu/
 
-The department:
-- Offers undergraduate and graduate academic programs with rigorous curricula that provide both theoretical foundations and practical skills for careers in computer science.
-- Conducts research in computer science and interdisciplinary computational fields with opportunities for undergraduate, master's, and doctoral student participation.
-- Promotes computation as a tool for scientific discovery and collaboration across departments and CUNY Graduate Center Ph.D. programs.
-- Provides computing and information technology education for all Queens College students through service courses and joint academic programs.
+The Queens College Department of Computer Science prepares students for careers in computing through undergraduate and graduate education, research opportunities, and interdisciplinary collaboration.
+
+The department offers:
+
+* Bachelor of Science (B.S.) in Computer Science
+* Bachelor of Arts (B.A.) in Computer Science
+* Master of Arts (M.A.) in Computer Science
+* Doctoral research opportunities through the CUNY Graduate Center
+* Undergraduate minors in Computer Science, Computer Information Technology (CIT), Computational Linguistics, and Financial Modeling
+
+Department Mission
+
+* Offer undergraduate and graduate academic programs with rigorous curricula that develop a strong understanding of computer science principles and practical technical skills.
+* Conduct research in computer science and interdisciplinary computational fields with opportunities for undergraduate, master's, and doctoral student participation.
+* Promote computation as a tool for scientific discovery and collaboration across departments and the CUNY Graduate Center.
+* Provide computing and information technology education for Queens College students through service courses and interdisciplinary academic programs.
+
+Academic Opportunities
+
+Students can pursue both Bachelor of Arts and Bachelor of Science degrees in Computer Science. The B.S. program includes additional mathematics, laboratory, and advanced computer science coursework, while the B.A. provides a broader liberal arts education combined with computer science.
+
+Research and Student Engagement
+
+Faculty members conduct research in areas such as artificial intelligence, machine learning, computer vision, cybersecurity, databases, distributed systems, algorithms, and data science. Students have opportunities to participate in research projects and seminars alongside faculty members.
+
+Department Resources
+
+The department provides:
+
+* Academic advising
+* Undergraduate and graduate degree programs
+* Course schedules
+* Faculty office hours
+* Student seminars
+* Research opportunities
+* Student organizations and academic support resources

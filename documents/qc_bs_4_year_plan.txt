@@ -1,0 +1,106 @@
+Queens College Computer Science BS 4-Year Plan
+
+soruce: https://www.qc.cuny.edu/aac/wp-content/uploads/sites/84/2022/12/Computer-Science-BS-4-Year-Plan.pdf
+
+
+This document provides a recommended four-year academic plan for students pursuing a Bachelor of Science in Computer Science at Queens College.
+
+The plan outlines:
+
+* Recommended semester-by-semester course sequence
+* General Education requirements
+* Mathematics requirements
+* Core Computer Science courses
+* Science requirements
+* Free electives
+
+Recommended Course Sequence
+
+Semester 1
+
+- English Composition I (EC1) 3 credits
+- World Cultures & Global Issues (WCGI) 3 credits
+- U.S Experience in its Diversity (USED) 3 credits
+- Creative Expression (CE) 3 credits
+- MATH 151¥ (MQR) 4 credits
+- Calculus I 4 credits
+
+Semester 2
+
+- English Composition II (EC2) 3 credits
+- Individual and Society (IS) 3 credits
+- An Additional Flexible Core 3 credits
+- College Option Literature (LIT+W) 3 credits
+With Writing Intensive Unit *
+- Math 152¥ 4 credits
+- Calculus II 4 credits
+
+Semester 3
+
+- CSCI 111 3 credits
+- Introduction to Algorithmic Problem Solving
+- MATH 120β 3 credits
+- Discrete Mathematics
+- An Additional College Core 3 credits
+- Scientific World (SW) 3 credits
+- College Option Language (LANG) 4 credits
+
+Semester 4
+
+- CSCI 211 3 credits
+OOP in C++
+- CSCI 212 3 credits
+OOP in Java
+- CSCI 220 3 credits
+Discrete Structures
+- CSCI 240 3 credits
+- Computer Organization and Assembly Language 3 credits
+One Writing Intensive Unit (W) 
+
+Semester 5 
+
+- CSCI 313 3 credits
+Data Structures
+- CSCI 320 3 credits
+Theory of Computation
+- CSCI 343 3 credits
+Computer Architecture
+- MATH 241 3 credits
+Probability & Statistics
+- MATH 231¥ or 237 4 credits
+Linear Algebra 
+
+Semester 6
+
+- CSCI 323 3 credits
+Design & Analysis of Algorithms
+- CSCI 331 3 credits
+Database Systems
+- CSCI 340 3 credits
+Operating Systems
+- CSCI 316 3 credits
+Principles of Programming Languages
+- First Computer Science Elective** 4 credits
+
+Semester 7
+ 
+- Second Computer Science Elective** 3 credits
+- CSCI 370 3 credits
+Software Engineering
+- Third Computer Science Elective** 3 credits
+- Fourth Computer Science Elective** 3 credits
+- College Option Science (SCI) 3 credits
+
+Semester 8
+
+- Fifth Computer Science Elective** 3 credits
+- Sixth Computer Science Elective** 3 credits
+- Seventh Computer Science Elective** 3 credits
+- Life & Physical Science (LPS) 4 credits
+- General elective 3 credits
+
+
+Notes
+
+* This is a recommended academic plan and may vary depending on transfer credits, placement, and individual academic progress.
+* Students should consult an academic advisor when planning their schedule.

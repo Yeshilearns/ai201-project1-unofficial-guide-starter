@@ -1,0 +1,56 @@
+Queens College Computer Science Academic Advising
+
+Source:
+https://www.cs.qc.cuny.edu/advisor.php
+
+This page lists the Computer Science academic advisors and their contact information.
+
+Advisor: Cuneyt Akinlar
+Role: Undergraduate Advisor
+Office: QH-205F
+Phone: (718) 997-3505
+Email: cuneyt.akinlar@qc.cuny.edu
+
+Advisor: Xinying Chyn
+Role: Undergraduate Advisor
+Office: SB-A328
+Office Hours: MTWR 8:30 AM – 9:30 AM
+Phone: (718) 997-3482
+Email: xinying.chyn@qc.cuny.edu
+
+Advisor: T. Yung Kong
+Role: Graduate Advisor
+Office: SB-A106
+Phone: (718) 997-3478
+Email: tkong@qc.cuny.edu
+
+Advisor: Anne Smith-Thompson
+Role: Undergraduate Advisor
+Office: Online
+Phone: (718) 997-3476
+Email: anne.smiththompson@qc.cuny.edu
+
+Advisor: Oren Steinberg
+Role: Undergraduate Advisor
+Office: QH-205M
+Office Hours: MTWR 4:00 PM – 6:00 PM
+Phone: (718) 997-3509
+Email: oren.steinberg@qc.cuny.edu
+
+Advisor: John Svadlenka
+Role: Undergraduate Advisor
+Office: SB-A336
+Phone: (718) 997-3523
+Email: john.svadlenka@qc.cuny.edu
+
+Advisor: Gaurish Telang
+Role: Undergraduate Advisor
+Office: QH-205K
+Phone: (718) 997-3570
+Email: gaurish.telang@qc.cuny.edu
+
+Advisor: Charlene Tsai
+Role: Undergraduate Advisor
+Office: SB-A118
+Phone: (718) 997-3497
+Email: chialing.tsai@qc.cuny.edu

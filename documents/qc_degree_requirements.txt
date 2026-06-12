@@ -1,0 +1,42 @@
+Queens College Computer Science BS Degree Requirements
+
+Source:
+https://www.cs.qc.cuny.edu/undergrad/BS_FA22.pdf
+
+This document outlines the curriculum and graduation requirements for the Bachelor of Science in Computer Science at Queens College.
+
+The BS degree requires completion of:
+
+- General Education (QC Core) requirements
+- Mathematics requirements
+- Core Computer Science courses
+- Science requirements
+- Computer Science electives
+- Free electives
+
+Required Mathematics Courses
+- MATH 120 - Discrete Mathematics
+- MATH 151 - Calculus I
+- MATH 152 - Calculus II
+- MATH 231 or MATH 237 - Linear Algebra
+- MATH 241 -  Probability and Statistics
+
+Required Core Computer Science Courses
+- CSCI 111 - Introduction to Algorithmic Problem Solving
+- CSCI 211 - Object-Oriented Programming in C++
+- CSCI 212 - Object-Oriented Programming in Java
+- CSCI 220 - Discrete Structures
+- CSCI 240 - Computer Organization and Assembly Language
+- CSCI 313 - Data Structures
+- CSCI 316 - Principles of Programming Languages
+- CSCI 320 - Theory of Computation
+- CSCI 323 - Design and Analysis of Algorithms
+- CSCI 331 - Database Systems
+- CSCI 340 - Operating Systems
+- CSCI 343 - Computer Architecture
+- CSCI 370 - Software Engineering
+
+Additional Requirements
+- Complete the required Computer Science electives.
+- Complete General Education requirements.
+- Earn the minimum required grades in major courses.

@@ -1,0 +1,69 @@
+Queens College Computer Science Faculty
+
+Source:
+https://www.qc.cuny.edu/academics/cs/faculty/
+
+This document provides information about the faculty members in the Queens College Computer Science Department, including their academic positions, research interests, office locations, and contact information.
+
+Department Chair
+
+Alex Ryba
+- Position: Chair, Professor
+- Research Interests: Computational Group Theory, Computational Algebra, Combinatorial Game Theory
+- Office: Science Building A222
+- Email: alexander.ryba@qc.cuny.edu
+
+Full-Time Faculty
+
+Cuneyt Akinlar
+- Doctoral Lecturer
+- Research Interests: Computer Systems and Networks, Image Processing, Computer Vision, Software Engineering, High Performance Computing
+- Office: Queens Hall 205F
+- Email: cuneyt.akinlar@qc.cuny.edu
+
+Jonathan Gryak
+- Assistant Professor
+- Research Interests: Artificial Intelligence, Machine Learning, Computational Medicine
+- Office: Science Building A116
+- Email: jonathan.gryak@qc.cuny.edu
+
+Delaram Kahrobaei
+- Professor
+- Research Interests: Post-Quantum Cryptography, Information Security, Data Science
+- Office: Science Building A112
+- Email: delaram.kahrobaei@qc.cuny.edu
+
+Kenneth Lord
+- Doctoral Lecturer
+- Research Interests: Operating Systems, Web Programming, Applications of Computers to Linguistics and Music
+- Office: Science Building A120
+- Email: kenneth.lord@qc.cuny.edu
+
+Anne Smith-Thompson
+- Lecturer
+- Office: Science Building A114
+- Email: anne.smiththompson@qc.cuny.edu
+
+Bon K. Sy
+- Professor
+- Research Interests: Database Systems, Information Retrieval, Artificial Intelligence, Expert Systems
+- Office: Science Building A104
+- Email: bon.sy@qc.cuny.edu
+
+Charlene Tsai
+- Associate Professor
+- Research Interests: Biomedical Image Analysis, Computer Vision, Data Science, Intelligent Tutoring
+- Office: Science Building A118
+- Email: chialing.tsai@qc.cuny.edu
+
+John Svadlenka
+- Doctoral Lecturer
+- Research Interests: Matrix Approximation, Big Data Algorithms
+- Office: Science Building A336
+- Email: john.svadlenka@qc.cuny.edu
+
+Gaurish Telang
+- Doctoral Lecturer
+- Research Interests: Discrete and Computational Geometry
+- Office: Queens Hall 205K
+- Email: gaurish.telang@qc.cuny.edu

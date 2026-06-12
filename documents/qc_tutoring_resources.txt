@@ -1,0 +1,51 @@
+Queens College Learning Commons – Computer Science Resources
+
+Source:
+https://www.qc.cuny.edu/academics/qclc/resources/
+
+The Queens College Learning Commons provides free academic support resources for Computer Science students.
+
+CSCI Review Sessions
+- Hybrid review sessions are available for:
+  - CSCI 111
+  - CSCI 211
+  - CSCI 212
+  - CSCI 220
+  - CSCI 320
+  - CSCI 343
+
+Students can attend review sessions through Zoom. Previous review session recordings are also available.
+
+Python Workshops
+- Intro to Python Workshop
+- Python Libraries Workshop
+
+LeetCode Workshops
+Students can practice technical interview problems with peer tutors.
+
+Topics include:
+- Arrays and Hash Maps
+- Two Pointers
+- Linked Lists
+- Trees
+- Graphs
+- Introduction to System Design
+
+Student Clubs
+- Code For All
+- D.I.C.E.
+- Code Resolve
+- Girls Who Code
+
+Online Resources
+Courses:
+- CS50 (Harvard)
+- QC CSCI + Math Notes
+
+Programming Help:
+- Stack Overflow
+
+Recommended YouTube Channels:
+- Cuneyt Akinlar
+- Coding With John
+- BroCodez
