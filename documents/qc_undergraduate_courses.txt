@@ -1,0 +1,42 @@
+Queens College Undergraduate Computer Science Courses
+
+Source:
+https://cs.qc.cuny.edu/undergraduate-courses/
+
+Summary:
+The undergraduate Computer Science program offers courses from introductory programming to advanced electives in artificial intelligence, machine learning, operating systems, cloud computing, software engineering, databases, cybersecurity, natural language processing, distributed systems, and internships.
+
+Key Courses
+
+CSCI 111 – Introduction to Algorithmic Problem Solving
+Introduces algorithmic analysis, programming fundamentals, data types, classes, control structures, arrays, functions, variables, input/output, and documentation.
+
+CSCI 211 – Object-Oriented Programming in C++
+Topics include object-oriented programming, recursion, linked lists, memory management, STL, templates, exception handling, and debugging.
+
+CSCI 220 – Discrete Structures
+Topics include algorithms, recursion, graphs, trees, relations, and asymptotic analysis.
+
+CSCI 313 – Data Structures
+Covers stacks, queues, trees, graphs, heaps, hash tables, searching, sorting, runtime analysis, greedy algorithms, divide-and-conquer, and backtracking.
+
+CSCI 323 – Design and Analysis of Algorithms
+Covers advanced algorithms, graph algorithms, dynamic programming, greedy algorithms, NP-complete problems, and programming projects.
+
+CSCI 325 – Machine Learning
+Topics include regression, classification, neural networks, deep learning, PCA, random forests, SVMs, and machine learning pipelines.
+
+CSCI 340 – Operating Systems Principles
+Topics include concurrency, synchronization, CPU scheduling, memory management, deadlocks, file systems, and operating system projects.
+
+CSCI 346 – Cloud Computing
+Topics include virtualization, cloud infrastructure, big data, resource scheduling, consistency, and fault tolerance.
+
+CSCI 363 – Artificial Intelligence
+Topics include search, probabilistic reasoning, reinforcement learning, machine learning, AI ethics, and programming projects.
+
+CSCI 370 – Software Engineering
+Topics include the software lifecycle, design, implementation, testing, maintenance, and large team projects.
+
+CSCI 398 – Internship
+Students can earn academic credit through approved internships supervised by both faculty and employers.

@@ -1,0 +1,9 @@
+Queens College Computer Science Department Overview
+
+Computer Science is the field for everything computational – from the theoretical foundations for algorithmic problem solving to the engineering of computational devices to the application of computer information technology in other fields.
+
+The department:
+- Offers undergraduate and graduate academic programs with rigorous curricula that provide both theoretical foundations and practical skills for careers in computer science.
+- Conducts research in computer science and interdisciplinary computational fields with opportunities for undergraduate, master's, and doctoral student participation.
+- Promotes computation as a tool for scientific discovery and collaboration across departments and CUNY Graduate Center Ph.D. programs.
+- Provides computing and information technology education for all Queens College students through service courses and joint academic programs.
