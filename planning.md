@@ -42,13 +42,13 @@ The domain of this project is **The Unofficial Guide to Queens College Computer 
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
-**Chunk size:** 500 characters
+**Chunk size:** 400 characters
 
-**Overlap:** 100 characters
+**Overlap:** 80 characters
 
 **Reasoning:**
 
-I will split each document into chunks of approximately 500 characters with a 100-character overlap between consecutive chunks. This size is appropriate because most of my documents contain short sections such as course descriptions, faculty information, advising resources, tutoring information, internship opportunities, and student resources. Using a small overlap helps preserve context when important information spans two chunks, reducing the chance of losing relevant details during retrieval.
+I will split each document into chunks of approximately 400 characters with an 80-character overlap between consecutive chunks.
 ---
 
 ## Retrieval Approach
